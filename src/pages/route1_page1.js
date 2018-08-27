@@ -3,7 +3,6 @@ import { Text, View, Button, Image } from 'react-native'
 
 import Header_SearchBar from '../components/header_searchbar'
 import PageTitle from '../components/page_title'
-import Icon from '../components/bottombar_icon'
 
 import STYLESTACK from '../styles/style_stack'
 
